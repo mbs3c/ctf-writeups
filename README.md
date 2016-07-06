@@ -1,2 +1,2 @@
 # ctf-writeups
-See Wiki for writeup.
+See: https://github.com/mbs3c/milnet-ctf-writeup/wiki
